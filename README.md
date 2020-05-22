@@ -23,8 +23,8 @@ Copy the `HexChat\commands.conf` into the folder. If you already have User Comma
 
 ## Credits
 Thanks for the translations to:
-Whirlwind113 - Russian
-Pistou - French
-Aarkein - Spanish
-KumaKenji - Portuguese
-NivisOwl - Chinese
+* Whirlwind113 - Russian
+* Pistou - French
+* Aarkein - Spanish
+* KumaKenji - Portuguese
+* NivisOwl - Chinese
