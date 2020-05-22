@@ -1,5 +1,5 @@
-
 # Fuel Rats Dispatch Aliases
+These aliases are ment to help a Fuel Rats diaspatcher to more efficiently dispatch cases, specially in foreign languages or on a high case load.
 
 ## Installation
 
@@ -19,3 +19,12 @@ Close HexChat. Open a file browser and go to the folder for your OS:
 * Snap: `~/snap/hexchat/current/.config/hexchat`
 
 Copy the `HexChat\commands.conf` into the folder. If you already have User Commands set up you have to merge the files or your Commands will be overwritten. When done start HexChat.
+
+
+## Credits
+Thanks for the translations to:
+Whirlwind113 - Russian
+Pistou - French
+Aarkein - Spanish
+KumaKenji - Portuguese
+NivisOwl - Chinese
