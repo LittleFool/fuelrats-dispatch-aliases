@@ -20,6 +20,8 @@ Close HexChat. Open a file browser and go to the folder for your OS:
 
 Copy the `HexChat\commands.conf` into the folder. If you already have User Commands set up you have to merge the files or your Commands will be overwritten. When done start HexChat.
 
+### Kiwi IRC
+Go to Kiwi settings, switch to the 'Aliases' tab, copy and paste the content of the 'KiwiIRC/aliases.ini' from this repository into there.
 
 ## Credits
 Thanks for the translations to:
