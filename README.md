@@ -22,6 +22,7 @@ Copy the `HexChat\commands.conf` into the folder. If you already have User Comma
 
 ### Kiwi IRC
 Go to Kiwi settings, switch to the `Aliases` tab, copy and paste the content of the `KiwiIRC/aliases.ini` from this repository into there.
+**Be careful: /close syntax has changed and actually closes the case now**
 
 ### irssi
 Copy the contents of `irssi/add.ini` into the `((status))` window of irssi
