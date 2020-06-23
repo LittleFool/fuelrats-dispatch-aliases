@@ -34,3 +34,4 @@ Thanks for the translations to:
 * Aarkein - Spanish
 * KumaKenji - Portuguese
 * NivisOwl - Chinese
+* Sintoreni - Italian
