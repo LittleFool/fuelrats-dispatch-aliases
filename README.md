@@ -27,6 +27,10 @@ Go to Kiwi settings, switch to the `Aliases` tab, copy and paste the content of 
 ### irssi
 Copy the contents of `irssi/add.ini` into the `((status))` window of irssi
 
+### weechat
+Copy the contents of `weechat/add.ini` into the server window of weechat
+This will override your `/close` alias which closes a window (buffer) the command for that is `/buffer close` so you might want to create a differen alias for that (don't use /bc) (don't ask me why i know that)
+
 ## Credits
 Thanks for the translations to:
 * Whirlwind113 - Russian
