@@ -31,6 +31,10 @@ Copy the contents of `irssi/add.ini` into the `((status))` window of irssi
 Copy the contents of `weechat/add.ini` into the server window of weechat
 This will override your `/close` alias which closes a window (buffer) the command for that is `/buffer close` so you might want to create a differen alias for that (don't use /bc) (don't ask me why i know that)
 
+### Revolution-IRC
+Make a backup within the App `Settings -> Backup -> Create a new backup`. Repalce the `command_aliases.json` inside the `.zip` file with the `revolution-irc/command_aliases.json` file from this repository.
+Restore the modified `.zip` file in the App `Settings -> Backup -> Restore a backup`
+
 ## Credits
 Thanks for the translations to:
 * Whirlwind113 - Russian
