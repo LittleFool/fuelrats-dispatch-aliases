@@ -13,7 +13,6 @@
     {"channel":"${channel}","disableArgAutocomplete":false,"mode":0,"name":"eng-fr","syntax":"\u003cmembers...\u003e","text":"${members}, parlez-vous anglais?"},
     {"channel":"${channel}","disableArgAutocomplete":false,"mode":0,"name":"eng-nb","syntax":"\u003cmembers...\u003e","text":"${members}, snakker du engelsk?"},
     {"channel":"${channel}","disableArgAutocomplete":false,"mode":0,"name":"eng-tr","syntax":"\u003cmembers...\u003e","text":"${members}, İngilizce biliyor musunuz?"},
-    {"channel":"${channel}","disableArgAutocomplete":false,"mode":0,"name":"eng-pt","syntax":"\u003cmembers...\u003e","text":"${members}, fala inglês?"},
     {"channel":"${channel}","disableArgAutocomplete":false,"mode":0,"name":"eng-cz","syntax":"\u003cmembers...\u003e","text":"${members}, mluvíš anglicky?"},
     {"channel":"${channel}","disableArgAutocomplete":false,"mode":0,"name":"eng-cs","syntax":"\u003cmembers...\u003e","text":"${members}, mluvíš anglicky?"},
     {"channel":"${channel}","disableArgAutocomplete":false,"mode":0,"name":"eng-pl","syntax":"\u003cmembers...\u003e","text":"${members}, czy mówisz po angielsku?"},
