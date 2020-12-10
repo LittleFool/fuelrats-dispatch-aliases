@@ -43,3 +43,4 @@ Thanks for the translations to:
 * KumaKenji - Portuguese
 * NivisOwl - Chinese
 * Sintoreni - Italian
+* Yuri_Voskov - Polish
