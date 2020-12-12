@@ -38,8 +38,6 @@ Restore the modified `.zip` file in the App `Settings -> Backup -> Restore a bac
 ### The Lounge
 Ensure that [thelounge-plugin-shortcuts](https://github.com/minidigger/thelounge-plugin-shortcuts) is installed.
 Copy the contents of `TheLounge/add.ini` into a server window.
-Due to a restriction with the shortcuts plugin, when using /crgo, if only two rats are assigned a space is required at the end of the command (or two spaces if there is only one rat) so that the message is formmatted correctly.
-
 
 ## Credits
 Thanks for the translations to:
