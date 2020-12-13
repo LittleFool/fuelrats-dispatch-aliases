@@ -35,6 +35,10 @@ This will override your `/close` alias which closes a window (buffer) the comman
 Make a backup within the App `Settings -> Backup -> Create a new backup`. Repalce the `command_aliases.json` inside the `.zip` file with the `revolution-irc/command_aliases.json` file from this repository.
 Restore the modified `.zip` file in the App `Settings -> Backup -> Restore a backup`
 
+### The Lounge
+Ensure that [thelounge-plugin-shortcuts](https://github.com/minidigger/thelounge-plugin-shortcuts) is installed.
+Copy the contents of `TheLounge/add.ini` into a server window.
+
 ## Credits
 Thanks for the translations to:
 * Whirlwind113 - Russian
