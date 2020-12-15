@@ -75,7 +75,7 @@ Text:
 >
 > `!wing client1 [client2 [client3]]`
 
-Notes: for mIRC and AdiIRC the language is given as a parameter, so the syntax is `/wing [language] client1 [client2 [client3]]` and **not** `/wing-language`. Not all Clients send the `!wing` fact.
+Notes: Not all Clients send the `!wing` fact.
 
 ---
 
@@ -86,7 +86,7 @@ Text:
 >
 > `!beacon [client1] [client2] [client3]`
 
-Notes: for mIRC and AdiIRC the language is given as a parameter, so the syntax is `/beacon [language] client1 [client2 [client3]]` and **not** `/beacon-language`. Not all Clients send the `!beacon` fact.
+Notes: Not all Clients send the `!beacon` fact.
 
 ---
 
