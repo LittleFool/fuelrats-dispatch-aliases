@@ -68,23 +68,23 @@ Text: `[client1] [client2] [client3] please exit to the main menu and log back i
 
 ---
 
-Alias: `/wing [client1] [client2] [client3]`
+Alias: `/wing client1 [client2] [client3]`
 
 Text:
-> `client1 [client2 [client3]] now, please invite your rat(s) to a wing.`
+> `client1 [client2] [client3] now, please invite your rat(s) to a wing.`
 >
-> `!wing client1 [client2 [client3]]`
+> `!wing client1 [client2] [client3]`
 
 Notes: Not all Clients send the `!wing` fact.
 
 ---
 
-Alias: `/beacon [client1] [client2] [client3]`
+Alias: `/beacon client1 [client2] [client3]`
 
 Text:
-> `[client1] [client2] [client3] lastly, enable your beacon so your rat(s) can find you in system.`
+> `client1 [client2] [client3] lastly, enable your beacon so your rat(s) can find you in system.`
 >
-> `!beacon [client1] [client2] [client3]`
+> `!beacon client1 [client2] [client3]`
 
 Notes: Not all Clients send the `!beacon` fact.
 
