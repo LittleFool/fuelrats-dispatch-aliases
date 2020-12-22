@@ -62,6 +62,12 @@ Text: `[client1] [client2] [client3] please look in the left panel in the naviga
 
 ---
 
+Alias: `/fr client rat1 [rat2] [rat3]`
+
+Text: `client please add these names to your friend list: rat1 [rat2] [rat3]`
+
+---
+
 Alias: `/open [client1] [client2] [client3]`
 
 Text: `[client1] [client2] [client3] please exit to the main menu and log back in to OPEN play, then re-disable your thrusters.`
