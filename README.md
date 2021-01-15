@@ -48,3 +48,5 @@ Thanks for the translations to:
 * NivisOwl - Chinese
 * Sintoreni - Italian
 * Yuri_Voskov - Polish
+* anonymous - Czech
+* Ramnos - Turkish
