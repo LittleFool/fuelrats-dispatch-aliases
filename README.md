@@ -107,3 +107,4 @@ Thanks for the translations to:
 * Yuri_Voskov - Polish
 * anonymous - Czech
 * Ramnos - Turkish
+* anonymous - Hungarian
