@@ -1,6 +1,7 @@
 # Fuel Rats Dispatch Aliases
 
 These aliases are ment to help a Fuel Rats diaspatcher to more efficiently dispatch cases, specially in foreign languages or on a high case load. These aliases can be used with the [fuelrats-casetracker](https://github.com/LittleFool/fuelrats-casetracker).
+The `fuelrats-casetracker` will only work if it saw at least one `ratsignal` or if you added a case manually with `/addcase`.
 
 ## Installation
 
