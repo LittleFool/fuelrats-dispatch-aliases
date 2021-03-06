@@ -99,13 +99,13 @@ Copy the contents of `TheLounge/remove.ini` into a server window.
 
 Thanks for the translations to:
 
-* Whirlwind113 - Russian
-* Pistou - French
-* Aarkein - Spanish
-* KumaKenji - Portuguese
-* NivisOwl - Chinese
-* Sintoreni - Italian
-* Yuri_Voskov - Polish
-* anonymous - Czech
-* Ramnos - Turkish
-* anonymous - Hungarian
+* Russian - Whirlwind113
+* French - Pistou
+* Spanish - Aarkein
+* Portuguese - KumaKenji
+* Chinese - NivisOwl
+* Italian - Sintoreni
+* Polish - Yuri_Voskov
+* Czech - anonymous
+* Turkish - Ramnos & anonymous
+* Hungarian - anonymous
