@@ -217,5 +217,3 @@ Text: `[client1] [client2] [client3] For advice and information in <Language> pl
 Alias: `/psfrf5 client`
 
 Text: `client please press OPTION on your controller, go to Social and press R1 and L1 a couple of times to refresh your friendslist`
-
-Notes: only available in english
