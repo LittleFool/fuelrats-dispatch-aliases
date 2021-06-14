@@ -105,7 +105,7 @@ Thanks for the translations to:
 * Portuguese - KumaKenji
 * Chinese - NivisOwl
 * Italian - Sintoreni
-* Polish - Yuri_Voskov
+* Polish - Yuri_Voskov, KWIATEK2001, Brodatty
 * Czech - anonymous
 * Turkish - Ramnos & anonymous
 * Hungarian - anonymous
