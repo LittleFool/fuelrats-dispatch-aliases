@@ -85,6 +85,17 @@ Notes: Not all Clients send the `!wing` fact.
 
 ---
 
+Alias: `/team client1 [client2] [client3]`
+
+Text:
+> `client1 [client2] [client3] now, please invite your rat(s) to a team.`
+>
+> `!wing client1 [client2] [client3]`
+
+Notes: Not all Clients send the `!team` fact.
+
+---
+
 Alias: `/beacon client1 [client2] [client3]`
 
 Text:
@@ -182,9 +193,22 @@ Text: `[client1] [client2] [client3] here is a short video on how to do it: <lin
 
 ---
 
+Alias: `/crinstody [client1] [client2] [client3]`
+
+Text: `[client1] [client2] [client3] Once you get told (NOT NOW!), please log into OPEN PLAY, INVITE all your assigned Rats to a Team and finally make sure your BEACON is set to TEAM!`
+
+---
+
 Alias: `/crgo client rat1 [rat2] [rat3]`
 
-Text: `client GO GO GO! $1 1. Login to OPEN - 2. light your beacon - 3. invite your rats rat1 [rat2] [rat3] to a wing - 4. report your o2 time in this chat and be ready to logout if I tell you to.`
+Text: `client GO GO GO! client 1. Login to OPEN - 2. light your beacon - 3. invite your rats rat1 [rat2] [rat3] to a wing - 4. report your o2 time in this chat and be ready to logout if I tell you to.`
+
+---
+
+
+Alias: `/crgoody client rat1 [rat2] [rat3]`
+
+Text: `GO GO GO! client 1. Login to OPEN - 2. invite your rats rat1 [rat2] [rat3] to a Team - 3. make sure your beacon is set to Team - 4. report your o2 time in this chat and be ready to logout if I tell you to.`
 
 ---
 
