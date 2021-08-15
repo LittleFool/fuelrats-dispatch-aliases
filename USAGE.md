@@ -10,7 +10,7 @@ In all IRC Clients, aliases are prefixed with a `/`. So the alias named `hello` 
 With most, if not all clients, aliases can use parameters that make them useful. Parameters are usually just appended to the alias name with spaces. So if we have an alias `/hello` that sends a greeting we could add the name of the person we want to greet with `/hello Bob` and this would then replace the parameter in our alias with the value `Bob`. How you access parameters inside an alias varies from IRC Client to IRC Client and is not gonna be part of this guide.
 
 In the sections below I'm gonna list all aliases in this repository, give their syntax, and an example.
-Required parameters will be given just as a string e.g. `/hello name` means the parameter `name` is required. Optional parameters are written in square brackets, so `/hello [name]` means the parameter `name` might be omitted. If not stated otherwise all aliases are multilingual by appending the language like `/hello-fr` for french.
+Required parameters will be given just as a string e.g. `/hello name` means the parameter `name` is required. Optional parameters are written in square brackets, so `/hello [name]` means the parameter `name` might be omitted. Note that not all IRC clients behave the same, some require the alias to have at least one parameter. With the [fuelrats-casetracker](https://github.com/LittleFool/fuelrats-casetracker) installed, the clientname can be substituted with the casenumber. If not stated otherwise all aliases are multilingual by appending the language like `/hello-fr` for french.
 
 ## Greeting / Prepping the client
 
@@ -151,7 +151,7 @@ Text:
 >
 > `!close case# rat`
 
-Notes: Not all clients send the `!close` but most do so **this actually closes a case!**
+Notes: With the [fuelrats-casetracker](https://github.com/LittleFool/fuelrats-casetracker) it is `/close case# rat`. Not all clients send the `!close` but most do so **this actually closes a case!**
 
 ## CR
 
@@ -187,15 +187,15 @@ Text: `[client1] [client2] [client3] staying in the main menu, can you confirm y
 
 ---
 
-Alias: `/crvideo [client1] [client2] [client3]`
-
-Text: `[client1] [client2] [client3] here is a short video on how to do it: <link>`
-
----
-
 Alias: `/crinstody [client1] [client2] [client3]`
 
 Text: `[client1] [client2] [client3] Once you get told (NOT NOW!), please log into OPEN PLAY, INVITE all your assigned Rats to a Team and finally make sure your BEACON is set to TEAM!`
+
+---
+
+Alias: `/crvideo [client1] [client2] [client3]`
+
+Text: `[client1] [client2] [client3] here is a short video on how to do it: <link>`
 
 ---
 
