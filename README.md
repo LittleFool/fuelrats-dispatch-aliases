@@ -41,7 +41,7 @@ Copy the contents of `weechat/add.ini` into the server window of weechat
 
 ### Revolution-IRC
 
-Make a backup within the App `Settings -> Backup -> Create a new backup`. Repalce the `command_aliases.json` file inside the `.zip` file with the `revolution-irc/command_aliases.json` file from this repository.
+Make a backup within the App `Settings -> Backup -> Create a new backup`. Replace the `command_aliases.json` file inside the `.zip` file with the `revolution-irc/command_aliases.json` file from this repository.
 Restore the modified `.zip` file in the App `Settings -> Backup -> Restore a backup`
 
 ### The Lounge
