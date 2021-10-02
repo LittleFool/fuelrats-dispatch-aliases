@@ -241,3 +241,15 @@ Text: `[client1] [client2] [client3] For advice and information in <Language> pl
 Alias: `/psfrf5 client`
 
 Text: `client please press OPTION on your controller, go to Social and press R1 and L1 a couple of times to refresh your friendslist`
+
+---
+
+Alias: `/xappear client`
+
+Text: `your profile needs to be set to "Appear Online". Please, double-tab Xbox button on your controller, proceed to your profile icon, select "View profile" and hit the button "Appear Online"`
+
+---
+
+Alias: `/xadult client`
+
+Text: `please tap XBOX button, press RB 5 times, select your Xbox profile, and choose "My Profile". Check that you see "Appear online", then go to "Privacy" settings. Ensure Privacy settings are set to "Adult default"`
