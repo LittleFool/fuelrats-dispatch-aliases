@@ -285,7 +285,7 @@
     {"channel":"${channel}","disableArgAutocomplete":false,"mode":0,"name":"crvideo-hu","syntax":"\u003cmembers...\u003e","text":"${members} Itt található egy rövid videó  ami megmutatja, hogyan kell csinálni:https://fuelrats.cloud/s/YYzSy2K2QKPfr4X"},
 	{"channel":"${channel}","disableArgAutocomplete":false,"mode":0,"name":"crvideoody","syntax":"\u003cmembers...\u003e","text":"${members} here is a short video on how to do it: https://t.fuelr.at/odycr"},
     {"channel":"${channel}","disableArgAutocomplete":false,"mode":0,"name":"crvideoody-de","syntax":"\u003cmembers...\u003e","text":"${members} hier ist ein kurzes video dazu: https://t.fuelr.at/odycr"},
-    {"channel":"${channel}","disableArgAutocomplete":false,"mode":0,"name":"crvideoody-ru","syntax":"\u003cmembers...\u003e","text":"${members} вот ссылка на небольшое видео о том, как это сделать: https://t.fuelr.at/odycr"},
+    {"channel":"${channel}","disableArgAutocomplete":false,"mode":0,"name":"crvideoody-ru","syntax":"\u003cmembers...\u003e","text":"${members} вот ссылка на небольшое видео о том, как это сделать: https://t.fuelr.at/odycrru"},
     {"channel":"${channel}","disableArgAutocomplete":false,"mode":0,"name":"crvideoody-es","syntax":"\u003cmembers...\u003e","text":"${members} aqui hay un vídeo corto de como hacerlo: https://t.fuelr.at/odycr"},
     {"channel":"${channel}","disableArgAutocomplete":false,"mode":0,"name":"crvideoody-fr","syntax":"\u003cmembers...\u003e","text":"${members} voici une courte vidéo sur comment le faire : https://t.fuelr.at/odycr"},
     {"channel":"${channel}","disableArgAutocomplete":false,"mode":0,"name":"crvideoody-pt","syntax":"\u003cmembers...\u003e","text":"${members} aqui está um vídeo curto sobre como proceder: https://t.fuelr.at/odycr"},
