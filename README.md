@@ -9,11 +9,12 @@ Revolution-IRC is currently unsupported
 
 ### mIRC
 
-In mIRC press `ALT+R` and copy the content of the `mIRC/remote.ini` file into the window. If you already have a `on 1:EXIT:` section then merge the contents. There can only be one `on 1:EXIT:` section in all files combined. Then switch to the `Aliases` tab and copy the contents of the `mIRC/aliases.ini` file into the window. When done click OK to save the changes and restart mIRC.
+In mIRC press `ALT+R` (Tools - Scripts Editor) and copy the content of the `mIRC/remote.ini` file into the `Remote` tab of the scripts window. If you already have a `on 1:EXIT:` section then merge the contents. There can only be one `on 1:EXIT:` section in all files combined. Then switch to the `Aliases` tab and copy the contents of the `mIRC/aliases.ini` file into the window. When done click OK to save the changes and **restart** mIRC.
 
 ### AdiIRC
 
-In AdiIRC press `ALT+R`, then click on `File` - `New`. Copy and paste the content of the `AdiIRC/aliases.ini` and `AdiIRC/remote.ini` file from this repository into the editor. If you already have a `on 1:EXIT:` section then merge the contents. There can only be one `on 1:EXIT:` section in all files combined. Then click on `File` - `Save`, enter a filename such as `aliases.ini` and save it under `%LOCALAPPDATA%\AdiIRC\Scripts` (default). When done, restart AdiIRC.
+In AdiIRC press `ALT+R` (Tools - Edit Scripts), then click on `File` - `New`. Copy and paste the content of the `AdiIRC/aliases.ini` file from this repository into the editor. Then click on `File` - `Save`, enter a filename such as `aliases.ini` and save it under `%LOCALAPPDATA%\AdiIRC\Scripts` (default).
+Repeat the same steps for the `AdiIRC/remote.ini` file. If you already have a `on 1:EXIT:` section then merge the contents. There can only be one `on 1:EXIT:` section in all files combined. When done, **restart** AdiIRC.
 
 ### HexChat
 
@@ -57,11 +58,11 @@ See [the Usage Guide](USAGE.md)
 
 ### mIRC
 
-Press `ALT+R`, then switch to the `Aliases` tab. Remove all entries you have copied from `mIRC/aliases.ini`.
+Press `ALT+R` (Tools - Scripts Editor), then remove all entries you copied from this repository in the `Aliases` and `Remote` tabs.
 
 ### AdiIRC
 
-Press `ALT+R`, then right click on the aliases file and choose unload or delete. Click save and close in the bottom left.
+Press `ALT+R` (Tools - Edit Scripts), then right click on the two files you created and choose unload or delete. Click save and close in the bottom left.
 
 ### HexChat
 
